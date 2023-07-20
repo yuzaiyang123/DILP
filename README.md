@@ -4,6 +4,6 @@ Thanks for your attention. In this repo, we provide the code for the paper "DILP
 
 # Open-source  schedule
 
-**20 Jul 2023.** We provide an example of differentiable render in [differentiable-render](differentiable-render.py).
+**20 Jul 2023.** We provide an example of differentiable render in [differentiable-render](differential-render.py).
 
 The full project will be open source after this paper is accepted.
